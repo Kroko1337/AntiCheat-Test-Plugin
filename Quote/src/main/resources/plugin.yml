@@ -1,0 +1,7 @@
+name: Quote
+version: 1.0
+author: Dirt
+main: dev.dirt.quote.Main
+depend:
+  - Core
+  - LuckPerms

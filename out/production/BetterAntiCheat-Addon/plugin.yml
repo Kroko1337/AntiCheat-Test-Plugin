@@ -1,0 +1,7 @@
+name: BetterAntiCheat-Addon
+version: 1.0
+main: de.krokoyt.baca.Main
+depend:
+  - LuckPerms
+  - Core
+  - BetterAntiCheat

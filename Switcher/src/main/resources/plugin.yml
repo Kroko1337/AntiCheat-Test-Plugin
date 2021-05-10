@@ -1,0 +1,17 @@
+name: Switcher
+version: 1.0
+author: KrokoYT
+main: de.krokoyt.switcher.Main
+depend:
+  - LuckPerms
+  - Core
+commands:
+  addanticheat:
+    aliases:
+      - addac
+    description: Add a AntiCheat to the list
+    permission: switcher.addanticheat
+  anticheat:
+    aliases:
+      - ac
+    description: Choose a AntiCheat

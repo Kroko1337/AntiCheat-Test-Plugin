@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Quote">
+    <output-path>$PROJECT_DIR$/../../../Server/AntiCheatTest/plugins</output-path>
+    <root id="archive" name="Quote.jar">
+      <element id="module-output" name="Quote" />
+    </root>
+  </artifact>
+</component>

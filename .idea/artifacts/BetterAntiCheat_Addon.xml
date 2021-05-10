@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="BetterAntiCheat-Addon">
+    <output-path>$PROJECT_DIR$/../../../Server/AntiCheatTest/plugins</output-path>
+    <root id="archive" name="BetterAntiCheat-Addon.jar">
+      <element id="module-output" name="BetterAntiCheat-Addon" />
+    </root>
+  </artifact>
+</component>

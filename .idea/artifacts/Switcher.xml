@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Switcher">
+    <output-path>$PROJECT_DIR$/../../../Server/AntiCheatTest/plugins</output-path>
+    <root id="archive" name="Switcher.jar">
+      <element id="module-output" name="Switcher" />
+    </root>
+  </artifact>
+</component>
